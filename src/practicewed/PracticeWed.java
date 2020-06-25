@@ -17,6 +17,8 @@ public class PracticeWed {
     public static void main(String[] args) {
         System.out.println("Hello world");
                 System.out.println("pull practice");
+                System.out.println("Fetch and Merge Practice");
+
 
     }
     
