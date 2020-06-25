@@ -19,6 +19,8 @@ public class PracticeWed {
                 System.out.println("pull practice");
                 System.out.println("Fetch and Merge Practice");
                  System.out.println("second rount f$M practice");
+                         System.out.println("Pull PRactice 2nd time");
+
 
 
 
